@@ -2,6 +2,8 @@
 main:
   - title: "AI 신호등"
     url: /AI-traffic/
+  - title: "기타 포스트"
+    url: /etc/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
