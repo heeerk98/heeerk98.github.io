@@ -101,10 +101,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:tuny0339@naver.com
+      url: mailto:tuny0339@naver.com
     - label: "Naver Blog"
       icon: "fas fa-fw fa-link"
-      # url: "https://blog.naver.com/tuny0339"
+      url: "https://blog.naver.com/tuny0339"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
